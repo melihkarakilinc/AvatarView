@@ -11,7 +11,7 @@
         android:id="@+id/avatarView"
         android:layout_width="110dp"
         android:layout_height="110dp"
-        app:avatarViewBorderColor="#efc154"
+        app:avatarViewBorderColor="@color/purple_200"
         app:avatarViewBorderWidth="3dp"
         app:avatarViewIndicatorBorderColor="@color/white"
         app:avatarViewIndicatorBorderSizeCriteria="10"
